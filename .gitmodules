@@ -1,0 +1,3 @@
+[submodule "image-background-remover"]
+	path = image-background-remover
+	url = https://github.com/oliveai2026/image-background-remover.git
